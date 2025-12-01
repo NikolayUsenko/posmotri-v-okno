@@ -1,1 +1,1 @@
-https://github.com/NikolayUsenko/posmotri-v-okno
+https://github.com/NikolayUsenko/posmotri-v-okno-ad
